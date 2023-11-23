@@ -1,5 +1,9 @@
-Hi 👋 My name is Bohdan
-=======================I am an aspiring junior programmer, currently developing bots and gaining experience, learning Python and Java with Kotlin--------------------------------------------------------------------------------------------------------------------------At the moment I am learning programming base, doing pet projects and understanding programming technologies, planning to become an android developer, learning Python and Java with Kotlin. I also have knowledge in cyber security and network administration, Linux and Windows. I have a good base in modern technologies.* 🌍  I'm based in Zhytomyr* ✉️  You can contact me at [bohdanborejko@proton.me](mailto:bohdanborejko@proton.me)* 🧠  I'm learning Java and Kotlin
+##Hi 👋 My name is Bohdan
+##I am an aspiring junior programmer, currently developing bots and gaining experience, learning Python and Java with Kotlin
+#At the moment I am learning programming base, doing pet projects and understanding programming technologies, planning to become an android developer, learning Python and Java with Kotlin. I also have knowledge in cyber security and network administration, Linux and Windows. I have a good base in modern technologies!
+🌍  I'm based in Zhytomyr* 
+✉️  You can contact me at [bohdanborejko@proton.me](mailto:bohdanborejko@proton.me)* 
+🧠  I'm learning Java and Kotlin
 
 ### Skills
 
